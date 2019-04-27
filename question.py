@@ -98,7 +98,7 @@ async def on_message(message):
 
             -------------------------------
             BOT ULR[HERE](<https://discordapp.com/api/oauth2/authorize?client_id=455685397817589770&permissions=268504241&scope=bot>)
-            BOT Code[HERE](<https://github.com/LoveNuddle/Noodle/blob/master/Noodle.py>)
+            BOT Code[HERE](<https://github.com/Anijaaa/Question/blob/master/question.py>)
             -------------------------------""",
             """
             Command-List
